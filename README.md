@@ -36,3 +36,6 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Melhoria Por Iniciativa Própria
+Ao selecionar o menu Remover, será exibido na tela do usuário os veículos cadastrados, o usuário deverá selecionar o item ao invés de digitar a placa do veículo. Isso evitará que o usuário esqueça ou não saiba da placa cadastrada.
